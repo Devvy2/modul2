@@ -1,0 +1,2 @@
+idfh;
+function test() {}
