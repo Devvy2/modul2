@@ -1,2 +1,0 @@
-idfh;
-function test() {}
