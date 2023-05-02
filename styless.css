@@ -1,0 +1,60 @@
+.Head {
+  position: relative;
+  text-align: center;
+  color: white;
+  display: block;
+}
+
+.Title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Intro {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  text-align: center;
+}
+
+.Topic {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  border: dotted blue;
+}
+
+.body-img {
+  width: 300px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.Tysværtunet {
+  border: dotted red;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.Beach {
+  border: dotted green;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Gym {
+  border: dotted yellow;
+  margin-left: auto;
+  margin-right: auto;
+}
